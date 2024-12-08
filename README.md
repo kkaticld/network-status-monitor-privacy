@@ -1,54 +1,31 @@
-<header>
+隐私政策
 
-<!--
-  <<< Author notes: Course header >>>
-  Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
-  In your repository settings: enable template repository, add your 1280×640 social image, auto delete head branches.
-  Add your open source license, GitHub uses MIT license.
--->
+最后更新：2023年12月8日
 
-# GitHub Pages
+感谢您使用 Network Status Monitor。本隐私政策旨在说明我们如何处理您的信息。
 
-_Create a site or blog from your GitHub repositories with GitHub Pages._
+信息收集和使用
+• 本应用不收集任何个人信息
+• 本应用不需要网络连接
+• 所有功能均在您的设备本地运行
 
-</header>
+权限使用说明
+本应用仅使用以下必要权限：
+• ACCESS_NETWORK_STATE：用于监控网络状态变化
+• ACCESS_WIFI_STATE：用于获取 Wi-Fi 信息
+• POST_NOTIFICATIONS：用于发送网络状态变化通知
 
-<!--
-  <<< Author notes: Step 1 >>>
-  Choose 3-5 steps for your course.
-  The first step is always the hardest, so pick something easy!
-  Link to docs.github.com for further explanations.
-  Encourage users to open new tabs for steps!
--->
+数据存储
+• 本应用不存储任何用户数据
+• 所有操作仅在内存中临时进行
 
-## Step 1: Enable GitHub Pages
+第三方服务
+• 本应用不使用任何第三方服务
+• 不与任何第三方共享数据
 
-_Welcome to GitHub Pages and Jekyll :tada:!_
+变更
+如本隐私政策有任何变更，我们将在此页面更新内容。
 
-The first step is to enable GitHub Pages on this [repository](https://docs.github.com/en/get-started/quickstart/github-glossary#repository). When you enable GitHub Pages on a repository, GitHub takes the content that's on the main branch and publishes a website based on its contents.
-
-### :keyboard: Activity: Enable GitHub Pages
-
-1. Open a new browser tab, and work on the steps in your second tab while you read the instructions in this tab.
-1. Under your repository name, click **Settings**.
-1. Click **Pages** in the **Code and automation** section.
-1. Ensure "Deploy from a branch" is selected from the **Source** drop-down menu, and then select `main` from the **Branch** drop-down menu.
-1. Click the **Save** button.
-1. Wait about _one minute_ then refresh this page (the one you're following instructions from). [GitHub Actions](https://docs.github.com/en/actions) will automatically update to the next step.
-   > Turning on GitHub Pages creates a deployment of your repository. GitHub Actions may take up to a minute to respond while waiting for the deployment. Future steps will be about 20 seconds; this step is slower.
-   > **Note**: In the **Pages** of **Settings**, the **Visit site** button will appear at the top. Click the button to see your GitHub Pages site.
-
-<footer>
-
-<!--
-  <<< Author notes: Footer >>>
-  Add a link to get support, GitHub status page, code of conduct, license link.
--->
-
----
-
-Get help: [Post in our discussion board](https://github.com/orgs/skills/discussions/categories/github-pages) &bull; [Review the GitHub status page](https://www.githubstatus.com/)
-
-&copy; 2023 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
-
-</footer>
+联系我们
+如果您对本隐私政策有任何疑问，请联系我们：
+kkprivacy@icloud.com
